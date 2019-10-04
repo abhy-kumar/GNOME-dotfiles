@@ -1,0 +1,18 @@
+[Icon Theme]
+Name=ketsa
+
+Directories=apps/64,places/64
+
+
+Inherits=breeze,elementary,gnome,hicolor
+
+
+[apps/64]
+Size=64
+Context=Applications
+MinSize=16
+MaxSize=512
+Type=Scalable
+
+
+

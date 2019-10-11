@@ -1,7 +1,8 @@
 # GNOME-dotfiles
 
 This repo consists of the basic dotfiles from my last known good-configuration on GNOME.
-Shell: zsh 5.5.1 
+
+ Shell: zsh 5.5.1 
   
  DE: GNOME 3.32.2 
 
